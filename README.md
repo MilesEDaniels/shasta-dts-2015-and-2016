@@ -57,7 +57,7 @@ _Table1: Meteorology and hydrology variables gathered._
 
 ### Results:
 
-Below (Figure 4)is a graphical summary of results from the DTS and the meteorological and hydrological variables. The plot below shows a time series of primary meterorological forcings (air temperature, wind speed, and solar radiation in additions to primary hydrologocal conditions (total Shasta inflow and outlfow volume and flow weighted inflow temperauture and Shasta release temperature). Below the time sereis plots is a representation of the DTS data shown as a vertical profile over time, with reservoir elevation on the Y-axis and time on the X-axis with temperature represented by color. Note that the mean elevations of the TCD gates are also plotted and any white space below the water line is data that was missing due to power outage at the DTS intrument and or cable entanglement. 
+Below (Figure 4) is a graphical summary of results from the DTS and the meteorological and hydrological variables. The plot below shows a time series of primary meterorological forcings (air temperature, wind speed, and solar radiation in additions to primary hydrologocal conditions (total Shasta inflow and outlfow volume and flow weighted inflow temperauture and Shasta release temperature). Below the time sereis plots is a representation of the DTS data shown as a vertical profile over time, with reservoir elevation on the Y-axis and time on the X-axis with temperature represented by color. Note that the mean elevations of the TCD gates are also plotted and any white space below the water line is data that was missing due to power outage at the DTS intrument and or cable entanglement. 
 
 ---
 
