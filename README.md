@@ -53,7 +53,6 @@ _Table1: Meteorology and hydrology variables gathered._
 
 Below are results for estimating TDFM for years 2020 to 2024.  
 
-
 ---
 
 ![plot](shasta_dts_hydro_met_data_plot.png)
