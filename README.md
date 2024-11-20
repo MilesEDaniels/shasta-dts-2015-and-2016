@@ -23,7 +23,7 @@ DTS data were calibrated as outlined in Huasner et al. 2011 using calibration ba
 
 ---
 
-![plot](WR_TDFM_2020.png)
+![plot](Calibration_DTS.png)
 
 ---
 
@@ -56,17 +56,5 @@ Below are results for estimating TDFM for years 2020 to 2024.
 
 ---
 
-![plot](WR_TDFM_2020.png)
+![plot](shasta_dts_hydro_met_data_plot.png)
 
----
-
-![plot](WR_TDFM_2021.png)
-
----
-
-![plot](WR_TDFM_2022.png)
-
----
-
-![plot](WR_TDFM_2023.png)
-![image](https://github.com/user-attachments/assets/b0eb0ee0-faba-4ec3-89a2-a9c89f098eb7)
