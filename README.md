@@ -13,9 +13,13 @@ Figures 1 and 2 provide a plan and side profile view of the deployment setup. Fi
 
 ![plot](Plan_View_DTS.png)
 
+Figure 1: Plan view of DTS installation at Shasta Reservoir.
+
 ---
 
 ![plot](Side_View_DTS.png)
+
+Figure 2: Side view of DTS installation at Shasta Reservoir.
 
 ---
 
@@ -24,6 +28,8 @@ DTS data were calibrated as outlined in Huasner et al. 2011 using calibration ba
 ---
 
 ![plot](Calibration_DTS.png)
+
+Figure 3: Comparison of DTS temperature and USBR vertical profile temperatures at three elevations.
 
 ---
 
@@ -51,11 +57,13 @@ _Table1: Meteorology and hydrology variables gathered._
 
 ### Results:
 
-Below is a graphical summary of results from the DTS and the meteorological and hydrological variables. The plot below shows a time series of primary meterorological forcings (air temperature, wind speed, and solar radiation in additions to primary hydrologocal conditions (total Shasta inflow and outlfow volume and flow weighted inflow temperauture and Shasta release temperature). Below the time sereis plots is a representation of the DTS data shown as a vertical profile over time, with reservoir elevation on the Y-axis and time on the X-axis with temperature represented by color. Note that the mean elevations of the TCD gates are also plotted and any white space below the water line is data that was missing due to power outage at the DTS intrument and or cable entanglement. 
+Below (Figure 4)is a graphical summary of results from the DTS and the meteorological and hydrological variables. The plot below shows a time series of primary meterorological forcings (air temperature, wind speed, and solar radiation in additions to primary hydrologocal conditions (total Shasta inflow and outlfow volume and flow weighted inflow temperauture and Shasta release temperature). Below the time sereis plots is a representation of the DTS data shown as a vertical profile over time, with reservoir elevation on the Y-axis and time on the X-axis with temperature represented by color. Note that the mean elevations of the TCD gates are also plotted and any white space below the water line is data that was missing due to power outage at the DTS intrument and or cable entanglement. 
 
 ---
 
 ![plot](shasta_dts_hydro_met_data_plot.png)
+
+Figure 4: Summary of meteorology, hydrology, and DTS data.
 
 ---
 ### Data: 
@@ -64,7 +72,7 @@ All data described here is available on this GitHub page. Specifically, the file
 
 ### Acknowledgments:
 
-Installation and data curation of the DTS data involved many individuals including: Eric Danner, Scott Tyler, Laurel Saito, Rachel Hallnan, Andrew Pike, Miles Daniels and others.
+Installation and data curation of the DTS data involved many individuals including: Eric Danner, Scott Tyler, Laurel Saito, Rachel Hallnan, Andrew Pike, Miles Daniels and others including logistical support from USBR.
 
 ### References:
 
