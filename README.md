@@ -2,7 +2,7 @@
 
 Summary of distributed temperature sensing (DTS) data from Shasta Reservoir, CA
 
-Last updated 11/20/2024, Miles Daniels (miles.daniels@ucsc.edu)
+Last updated 12/2/2024, Miles Daniels (miles.daniels@ucsc.edu)
 
 ### Methods: 
 
@@ -68,7 +68,7 @@ Figure 4: Summary of meteorology, hydrology, and DTS data.
 ---
 ### Data: 
 
-All data described here is available on this GitHub page. Specifically, the file "shasta_dts_hydro_met_data.mat" is a grouping of matlab structures and time tables. The matlab structure is used to hold the DTS data in "dts_data" and the time tables are used to hold the meteorological variables in "meteorology_data" and the hydrological variables in "reservoir_flow_temp_data". Each data type has the associated metadata included, but please reach out to miles.daniels@ucsc.edu or eric.danner@noaa.gov for questions. 
+All data described here is available on this GitHub page as Matlab filetypes (for .csv file formats, download the "dts_data_as_csv.zip" file). Specifically, the file "shasta_dts_hydro_met_data.mat" is a grouping of matlab structures and time tables. The matlab structure is used to hold the DTS data in "dts_data" and the time tables are used to hold the meteorological variables in "meteorology_data" and the hydrological variables in "reservoir_flow_temp_data". Each data type has the associated metadata included, but please reach out to miles.daniels@ucsc.edu or eric.danner@noaa.gov for questions. 
 
 ### Acknowledgments:
 
