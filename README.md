@@ -7,7 +7,7 @@ Last updated 12/2/2024, Miles Daniels (miles.daniels@ucsc.edu)
 ### Methods: 
 
 The goal of the project was to better understand how metrological forcings and operations of Shasta Dam effect the thermal dynamics of the Shasta Reservoir, which is the main source of cold water used for downstream temperature management on the Sacramento River. To do so, distributed temperature sensing (DTS) technology was deployed in Shasta Reservoir near the face of the temperature control device (TCD) from August 2015 to July 2016. The DTS instrument was housed in Shasta Dam with the fiber optic cable strung from exclusion buoys out to ~170 meters from the face of the dam and then dropped vertically ~ 100 meters before being returned to the DTS instrument. 
-Figures 1 and 2 provide a plan and side profile view of the deployment setup. Figures were sources from a poster presented by Rachel Hallnan at the California Water Environmental Modeling Forum in 20216.
+Figures 1 and 2 provide a plan and side profile view of the deployment setup. Figures were sources from a poster presented by Rachel Hallnan at the California Water Environmental Modeling Forum in 2016.
 
 ---
 
